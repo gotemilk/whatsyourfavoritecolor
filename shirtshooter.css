@@ -1,9 +1,8 @@
 img { 
-    max-width: 60vh;
-  max-height: 80vh;
+    max-width: 78vh;
+  max-height: 78vh;
     width: auto;
     height: auto;
 }
-
      html, body { height: 100%; width: 100%; margin: 0; background-color: black;  }
 div { justify-content: center; display: flex; align-items: center; height: 100%;}
