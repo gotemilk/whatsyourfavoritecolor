@@ -1,8 +1,8 @@
 img { 
-    max-width: 500px;
+    max-width: 69vh;
+  max-height: 84vh;
     width: auto;
     height: auto;
-  max-height: 69%;
 }
 
      html, body { height: 100%; width: 100%; margin: 0; background-color: black;  }
